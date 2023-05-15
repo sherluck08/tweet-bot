@@ -1,0 +1,7 @@
+schedule
+tweepy==4.4.0
+requests 
+pymongo 
+dnspython
+python-dotenv
+pendulum
